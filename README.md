@@ -33,8 +33,3 @@
 使用**uiautomation**根据窗口控件来获取未读消息，
 
 用plyer库中**Notification**的发送通知
-
-
-
-
-
